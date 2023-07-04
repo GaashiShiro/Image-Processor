@@ -1,5 +1,5 @@
-import { Texture } from "../TGE/texture.js";
-import { addElem } from "../TGE/utils.js"
+import { Texture } from "./TGE/texture.js";
+import { addElem } from "./TGE/utils.js"
 import { Picture } from "./TGE/picture.js";
 
 

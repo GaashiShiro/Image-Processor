@@ -1,5 +1,5 @@
 import { TurboTexture } from "./TurboTexture.js";
-import { addElem } from "../TGE/utils.js"
+import { addElem } from "./TGE/utils.js"
 
 const createSlider =(name, min, max, value)=> {
     const ui = document.getElementById('ui')
